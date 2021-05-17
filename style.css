@@ -8,7 +8,8 @@ body {
     width: 100%;
     min-height: 100vh;
     font-family: 'Open Sans', sans-serif;
-    background-image: url("/images/bg-desktop.svg");
+    background: url("/images/bg-desktop.svg")
+    no-repeat center/cover;
     background-color: hsl(257, 40%, 49%);
 }
 
